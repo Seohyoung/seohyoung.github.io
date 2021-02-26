@@ -18,7 +18,14 @@ paginate: 10
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
-# disqus:
+
+disqus: https-seohyoung-github-io
+
+---
+layout: default
+comments: true
+# other options
+---
 
 # Jekyll
 # ======
