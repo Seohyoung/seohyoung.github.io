@@ -21,11 +21,6 @@ paginate: 10
 
 disqus: https-seohyoung-github-io
 
----
-layout: default
-comments: true
-# other options
----
 
 # Jekyll
 # ======
